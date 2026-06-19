@@ -223,7 +223,7 @@ psgc_10_digit,name,geographic_level,urban_rural,correspondence_code,income_class
 1900709016,Kuhon,Bgy,R,150709016,,1900709,Basilan
 1900710001,Basakan,Bgy,R,150710001,,1900710,Basilan
 1900710002,Buton,Bgy,R,150710002,,1900710,Basilan
-1900710003,Candiis,Bgy,R,15071000
+1900710003,Candiis,Bgy,R,150710003,,1900710,Basilan
 1900710004,Langil,Bgy,R,150710004,,1900710,Basilan
 1900710005,Sibut,Bgy,R,150710005,,1900710,Basilan
 1900710006,Sulutan-Matangal,Bgy,R,150710006,,1900710,Basilan
@@ -249,7 +249,7 @@ psgc_10_digit,name,geographic_level,urban_rural,correspondence_code,income_class
 1900712005,Kaumpurnah,Bgy,R,150712005,,1900712,Basilan
 1900712006,Lanha-an,Bgy,R,150712006,,1900712,Basilan
 1900712007,Pisak-Pisak,Bgy,R,150712007,,1900712,Basilan
-1900712008,Saluping,Bgy,R,150712012,,1900712,Basilan
+1900712008,Saluping,Bgy,R,150712008,,1900712,Basilan
 1900712009,Suligan,Bgy,R,150712009,,1900712,Basilan
 1900712010,Tong-Umal,Bgy,R,150712010,,1900712,Basilan
 1900712011,Tubigan,Bgy,R,150712011,,1900712,Basilan
