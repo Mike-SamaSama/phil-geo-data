@@ -1,0 +1,219 @@
+psgc_code,barangay_name,municipality_name,is_district_member
+170401001,Agot,Boac,true
+170401002,Agumaymayan,Boac,true
+170401003,Amoingon,Boac,true
+170401004,Argao,Boac,true
+170401005,Balaring,Boac,true
+170401006,Balimbing,Boac,true
+170401007,Balogo,Boac,true
+170401008,Bambaban,Boac,true
+170401009,Bangbangalon,Boac,true
+170401010,Bantad,Boac,true
+170401011,Bantayan,Boac,true
+170401012,Bayuti,Boac,true
+170401013,Binunga,Boac,true
+170401014,Boi,Boac,true
+170401015,Boton,Boac,true
+170401016,Buliasnin,Boac,true
+170401017,Bunganay,Boac,true
+170401018,Caganhao,Boac,true
+170401019,Canat,Boac,true
+170401020,Catubugan,Boac,true
+170401021,Cawit,Boac,true
+170401022,Daig,Boac,true
+170401023,Del Mundo,Boac,true
+170401024,Duyay,Boac,true
+170401025,Hinapulan,Boac,true
+170401026,Ihatub,Boac,true
+170401027,Islec,Boac,true
+170401028,Kigtasan,Boac,true
+170401029,Laon,Boac,true
+170401030,Lipa,Boac,true
+170401031,Mainit,Boac,true
+170401032,Malaking Pulo,Boac,true
+170401033,Malbog,Boac,true
+170401034,Malote,Boac,true
+170401035,Mansiwat,Boac,true
+170401036,Mataas na Bayan,Boac,true
+170401037,Mayit,Boac,true
+170401038,Mercado,Boac,true
+170401039,Murallon,Boac,true
+170401040,Ogbac,Boac,true
+170401041,Pawa,Boac,true
+170401042,Pili,Boac,true
+170401043,Poctoy,Boac,true
+170401044,Poras,Boac,true
+170401045,Puting Buhangin,Boac,true
+170401046,Sabong,Boac,true
+170401047,San Miguel,Boac,true
+170401048,Santol,Boac,true
+170401049,Sawi,Boac,true
+170401050,Tabi,Boac,true
+170401051,Tabigue,Boac,true
+170401052,Tagatagan,Boac,true
+170401053,Tampus,Boac,true
+170401054,Tanza,Boac,true
+170401055,Tugos,Boac,true
+170401056,Tumagabok,Boac,true
+170401057,Tumingan,Boac,true
+170401058,Mahiwagang Kasaysayan,Boac,true
+170401059,Malusak,Boac,true
+170401060,San Juan,Boac,true
+170401061,San Pedro,Boac,true
+170402001,Bagatayan,Buenavista,true
+170402002,Bagtingon,Buenavista,true
+170402003,Bicas-bicas,Buenavista,true
+170402004,Caigangan,Buenavista,true
+170402005,Daykitin,Buenavista,true
+170402006,Libas,Buenavista,true
+170402007,Malbog,Buenavista,true
+170402008,Sihi,Buenavista,true
+170402009,Timbo,Buenavista,true
+170402010,Lipata,Buenavista,true
+170402011,Yook,Buenavista,true
+170402012,Barangay I,Buenavista,true
+170402013,Barangay II,Buenavista,true
+170402014,Barangay III,Buenavista,true
+170402015,Barangay IV,Buenavista,true
+170403001,Antipolo,Gasan,true
+170403002,Bachao,Gasan,true
+170403003,Bangbang,Gasan,true
+170403004,Banot,Gasan,true
+170403005,Banuyo,Gasan,true
+170403006,Bognuyan,Gasan,true
+170403007,Cabugao,Gasan,true
+170403008,Dawis,Gasan,true
+170403009,Dili,Gasan,true
+170403010,Libtangin,Gasan,true
+170403011,Mahunig,Gasan,true
+170403012,Matandang Gasan,Gasan,true
+170403013,Mahiwagang Kasaysayan,Gasan,true
+170403014,Pangi,Gasan,true
+170403015,Pinggan,Gasan,true
+170403016,Tabionan,Gasan,true
+170403017,Taping,Gasan,true
+170403018,Tiacho,Gasan,true
+170403019,Tuba,Gasan,true
+170403020,Barangay I,Gasan,true
+170403021,Barangay II,Gasan,true
+170403022,Barangay III,Gasan,true
+170403023,Barangay IV,Gasan,true
+170403024,San Jose,Gasan,true
+170403025,Sta. Cruz,Gasan,true
+170404001,Anapog-Sibucao,Mogpog,true
+170404002,Argao,Mogpog,true
+170404003,Balanacan,Mogpog,true
+170404004,Bato,Mogpog,true
+170404005,Bocboc,Mogpog,true
+170404006,Butansapa,Mogpog,true
+170404007,Candahon,Mogpog,true
+170404008,Capayang,Mogpog,true
+170404009,Danao,Mogpog,true
+170404010,Dulong Bayan,Mogpog,true
+170404011,Gitnang Bayan,Mogpog,true
+170404012,Guinhayangin,Mogpog,true
+170404013,Guisian,Mogpog,true
+170404014,Ino,Mogpog,true
+170404015,Janagdong,Mogpog,true
+170404016,Lamesa,Mogpog,true
+170404017,Laon,Mogpog,true
+170404018,Magapua,Mogpog,true
+170404019,Malayak,Mogpog,true
+170404020,Malbago,Mogpog,true
+170404021,Market Site,Mogpog,true
+170404022,Mataas na Bayan,Mogpog,true
+170404023,Mendez,Mogpog,true
+170404024,Nangka,Mogpog,true
+170404025,Naza,Mogpog,true
+170404026,Ocapan,Mogpog,true
+170404027,Pampang,Mogpog,true
+170404028,Paye,Mogpog,true
+170404029,Pili,Mogpog,true
+170404030,Puting Tubig,Mogpog,true
+170404031,Sayao,Mogpog,true
+170404032,Silangan,Mogpog,true
+170404033,Sumangga,Mogpog,true
+170404034,Tarug,Mogpog,true
+170404035,Villa Mendez,Mogpog,true
+170404036,Campo,Mogpog,true
+170404037,Janagdong II,Mogpog,true
+170405001,Alobo,Santa Cruz,true
+170405002,Angas,Santa Cruz,true
+170405003,Aturan,Santa Cruz,true
+170405004,Bagong Silang,Santa Cruz,true
+170405005,Baguidbirin,Santa Cruz,true
+170405006,Bahi,Santa Cruz,true
+170405007,Bangcuangan,Santa Cruz,true
+170405008,Buliasnin,Santa Cruz,true
+170405009,Buyabod,Santa Cruz,true
+170405010,Kagogong,Santa Cruz,true
+170405011,Kalubihan,Santa Cruz,true
+170405012,Camansihon,Santa Cruz,true
+170405013,Casisigan,Santa Cruz,true
+170405014,Dayao,Santa Cruz,true
+170405015,Devilla,Santa Cruz,true
+170405016,Dolores,Santa Cruz,true
+170405017,Haguimit,Santa Cruz,true
+170405018,Hupi,Santa Cruz,true
+170405019,Ipil,Santa Cruz,true
+170405020,Jolo,Santa Cruz,true
+170405021,Kaganhao,Santa Cruz,true
+170405022,Kalangkang,Santa Cruz,true
+170405023,Labo,Santa Cruz,true
+170405024,Lamesa,Santa Cruz,true
+170405025,Landy,Santa Cruz,true
+170405026,Lapolo,Santa Cruz,true
+170405027,Libjo,Santa Cruz,true
+170405028,Lipa,Santa Cruz,true
+170405029,Magsaysay,Santa Cruz,true
+170405030,Mahinhin,Santa Cruz,true
+170405031,Makulapnit,Santa Cruz,true
+170405032,Maniwaya,Santa Cruz,true
+170405033,Manogong,Santa Cruz,true
+170405034,Matalaba,Santa Cruz,true
+170405035,Mongpong,Santa Cruz,true
+170405036,Mulangan,Santa Cruz,true
+170405037,Napasa,Santa Cruz,true
+170405038,Pag-asa,Santa Cruz,true
+170405039,Pantayin,Santa Cruz,true
+170405040,Barangay I,Santa Cruz,true
+170405041,Barangay II,Santa Cruz,true
+170405042,Barangay III,Santa Cruz,true
+170405043,Barangay IV,Santa Cruz,true
+170405044,Barangay V,Santa Cruz,true
+170405045,Pulo,Santa Cruz,true
+170405046,Punong,Santa Cruz,true
+170405047,San Antonio,Santa Cruz,true
+170405048,San Isidro,Santa Cruz,true
+170405049,Tagum,Santa Cruz,true
+170405050,Tamayo,Santa Cruz,true
+170405051,Tambangan,Santa Cruz,true
+170405052,Tawiran,Santa Cruz,true
+170405053,Taytay,Santa Cruz,true
+170405054,Barangay VI,Santa Cruz,true
+170405055,Barangay VII,Santa Cruz,true
+170406001,Bangcuangan,Torrijos,true
+170406002,Buangan,Torrijos,true
+170406003,Cabuyo,Torrijos,true
+170406004,Cagpo,Torrijos,true
+170406005,Dampulan,Torrijos,true
+170406006,Kay Duke,Torrijos,true
+170406007,Mabini,Torrijos,true
+170406008,Makawayan,Torrijos,true
+170406009,Mal-asbago,Torrijos,true
+170406010,Malibago,Torrijos,true
+170406011,Matuyatuya,Torrijos,true
+170406012,Napo,Torrijos,true
+170406013,Pakaskasan,Torrijos,true
+170406014,Payanas,Torrijos,true
+170406015,Poblacion,Torrijos,true
+170406016,Poctoy,Torrijos,true
+170406017,Sibuyao,Torrijos,true
+170406018,Suha,Torrijos,true
+170406019,Talawan,Torrijos,true
+170406020,Tanza,Torrijos,true
+170406021,Tigwi,Torrijos,true
+170406022,Timbo,Torrijos,true
+170406023,Marlangga,Torrijos,true
+170406024,Bayandangan,Torrijos,true
+170406025,Malinao,Torrijos,true
