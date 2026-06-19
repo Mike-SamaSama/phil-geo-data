@@ -71,7 +71,7 @@ psgc_10_digit,name,geographic_level,urban_rural,correspondence_code,income_class
 1704020007,Malbog,Bgy,R,174002007,,1704020,Marinduque
 1704020008,Sihi,Bgy,R,174002008,,1704020,Marinduque
 1704020009,Timbo,Bgy,R,174002009,,1704020,Marinduque
-1704020010,Lipata,Bgy,R,174002010,,1704020,Marinduque
+1704020100,Lipata,Bgy,R,174002010,,1704020,Marinduque
 1704020011,Yook,Bgy,R,174002011,,1704020,Marinduque
 1704020012,Barangay I,Bgy,U,174002012,,1704020,Marinduque
 1704020013,Barangay II,Bgy,U,174002013,,1704020,Marinduque
@@ -114,7 +114,7 @@ psgc_10_digit,name,geographic_level,urban_rural,correspondence_code,income_class
 1704040008,Capayang,Bgy,R,174004008,,1704040,Marinduque
 1704040009,Danao,Bgy,R,174004009,,1704040,Marinduque
 1704040010,Dulong Bayan,Bgy,R,174004010,,1704040,Marinduque
-1704040011,Gitnang Bayan,Bgy,U,174004011,,1704040,Marinduque
+1704040110,Gitnang Bayan,Bgy,U,174004011,,1704040,Marinduque
 1704040012,Guinhayangin,Bgy,R,174004012,,1704040,Marinduque
 1704040013,Guisian,Bgy,R,174004013,,1704040,Marinduque
 1704040014,Ino,Bgy,R,174004014,,1704040,Marinduque
@@ -151,7 +151,7 @@ psgc_10_digit,name,geographic_level,urban_rural,correspondence_code,income_class
 1704050007,Bangcuangan,Bgy,R,174005007,,1704050,Marinduque
 1704050008,Buliasnin,Bgy,R,174005008,,1704050,Marinduque
 1704050009,Buyabod,Bgy,R,174005009,,1704050,Marinduque
-1704050010,Kagogong,Bgy,R,174005010,,1704050,Marinduque
+1704050100,Kagogong,Bgy,R,174005010,,1704050,Marinduque
 1704050011,Kalubihan,Bgy,R,174005011,,1704050,Marinduque
 1704050012,Camansihon,Bgy,R,174005012,,1704050,Marinduque
 1704050013,Casisigan,Bgy,R,174005013,,1704050,Marinduque
@@ -165,4 +165,26 @@ psgc_10_digit,name,geographic_level,urban_rural,correspondence_code,income_class
 1704050021,Kaganhao,Bgy,R,174005021,,1704050,Marinduque
 1704050022,Kalangkang,Bgy,R,174005022,,1704050,Marinduque
 1704050023,Labo,Bgy,R,174005023,,1704050,Marinduque
-170
+1704050024,Lamesa,Bgy,R,174005024,,1704050,Marinduque
+1704050025,Landy,Bgy,R,174005025,,1704050,Marinduque
+1704050026,Lapolo,Bgy,R,174005026,,1704050,Marinduque
+1704050027,Libjo,Bgy,R,174005027,,1704050,Marinduque
+1704050028,Lipa,Bgy,R,174005028,,1704050,Marinduque
+1704050029,Magsaysay,Bgy,R,174005029,,1704050,Marinduque
+1704050030,Mahinhin,Bgy,R,174005030,,1704050,Marinduque
+1704050031,Makulapnit,Bgy,R,174005031,,1704050,Marinduque
+1704050032,Maniwaya,Bgy,R,174005032,,1704050,Marinduque
+1704050033,Manogong,Bgy,R,174005033,,1704050,Marinduque
+1704050034,Matalaba,Bgy,R,174005034,,1704050,Marinduque
+1704050035,Mongpong,Bgy,R,174005035,,1704050,Marinduque
+1704050036,Mulangan,Bgy,R,174005036,,1704050,Marinduque
+1704050037,Napasa,Bgy,R,174005037,,1704050,Marinduque
+1704050038,Pag-asa,Bgy,U,174005038,,1704050,Marinduque
+1704050039,Pantayin,Bgy,R,174005039,,1704050,Marinduque
+1704050040,Barangay I,Bgy,U,174005040,,1704050,Marinduque
+1704050041,Barangay II,Bgy,U,174005041,,1704050,Marinduque
+1704050042,Barangay III,Bgy,U,174005042,,1704050,Marinduque
+1704050043,Barangay IV,Bgy,U,174005043,,1704050,Marinduque
+1704050044,Barangay V,Bgy,U,174005044,,1704050,Marinduque
+1704050045,Pulo,Bgy,R,174005045,,1704050,Marinduque
+1704050046,Punong,Bgy,R,174005046,,17
