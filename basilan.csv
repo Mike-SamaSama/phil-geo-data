@@ -29,7 +29,7 @@ psgc_10_digit,name,geographic_level,urban_rural,correspondence_code,income_class
 1900701028,Isabela Eastside,Bgy,U,150701028,,1900701,Basilan
 1900701029,Isabela Westside,Bgy,U,150701029,,1900701,Basilan
 1900701030,Kapatagan Chico,Bgy,R,150701030,,1900701,Basilan
-1900701031,La Piedad,Bgy,U,150701031,,1900701,Basilan
+1900701031,La Piedad (Pob.),Bgy,U,150701031,,1900701,Basilan
 1900701032,Lampinigan,Bgy,R,150701032,,1900701,Basilan
 1900701033,Lanawan,Bgy,R,150701033,,1900701,Basilan
 1900701034,Lukbuton,Bgy,R,150701034,,1900701,Basilan
@@ -46,7 +46,7 @@ psgc_10_digit,name,geographic_level,urban_rural,correspondence_code,income_class
 1900701045,Riverside,Bgy,R,150701045,,1900701,Basilan
 1900701046,Kapuk,Bgy,R,150701046,,1900701,Basilan
 1900701047,Masone,Bgy,R,150701047,,1900701,Basilan
-1900701048,Calvario II,Bgy,R,150701048,,1900701,Basilan
+1900701048,Sunrise Village,Bgy,R,150701048,,1900701,Basilan
 1900701049,Panigayan East,Bgy,R,150701049,,1900701,Basilan
 1900702001,Bato,Bgy,R,150702001,,1900702,Basilan
 1900702002,Bohebessey,Bgy,R,150702002,,1900702,Basilan
@@ -99,7 +99,7 @@ psgc_10_digit,name,geographic_level,urban_rural,correspondence_code,income_class
 1900702049,Tambo,Bgy,R,150702049,,1900702,Basilan
 1900702050,Tipotipo,Bgy,R,150702050,,1900702,Basilan
 1900703001,Atong-Atong,Bgy,R,150703001,,1900703,Basilan
-1900703002,Baas,Bgy,R,150703002,,1900703,Basilan
+1900703002,Lower Manggas,Bgy,R,150703002,,1900703,Basilan
 1900703003,Bulanza,Bgy,R,150703003,,1900703,Basilan
 1900703004,Calugusan,Bgy,R,150703004,,1900703,Basilan
 1900703005,Canas,Bgy,R,150703005,,1900703,Basilan
@@ -115,7 +115,7 @@ psgc_10_digit,name,geographic_level,urban_rural,correspondence_code,income_class
 1900703015,Borong,Bgy,R,150703015,,1900703,Basilan
 1900703016,Bubuan,Bgy,R,150703016,,1900703,Basilan
 1900703017,Bulansa Proper,Bgy,R,150703017,,1900703,Basilan
-1900703018,Calang Canas,Bgy,R,150703018,,1900703,Basilan
+1900703018,Tairan,Bgy,R,150703018,,1900703,Basilan
 1900703019,Lahat-Lahat,Bgy,R,150703019,,1900703,Basilan
 1900703020,Lawila,Bgy,R,150703020,,1900703,Basilan
 1900703021,Matikang,Bgy,R,150703021,,1900703,Basilan
@@ -132,8 +132,8 @@ psgc_10_digit,name,geographic_level,urban_rural,correspondence_code,income_class
 1900704007,Port Holland Zone II,Bgy,U,150704007,,1900704,Basilan
 1900704008,Townsite,Bgy,U,150704008,,1900704,Basilan
 1900704009,Abong-Abong,Bgy,R,150704009,,1900704,Basilan
-1900704010,Amoyloi,Bgy,R,150704010,,1900704,Basilan
-190070411,Biha,Bgy,R,150704011,,1900704,Basilan
+1900704010,Mahayahay Upper (Zone II),Bgy,R,150704010,,1900704,Basilan
+1900704011,Biha,Bgy,R,150704011,,1900704,Basilan
 1900704012,Bohe-Suyak,Bgy,R,150704012,,1900704,Basilan
 1900704013,Carama,Bgy,R,150704013,,1900704,Basilan
 1900704014,Gaunan,Bgy,R,150704014,,1900704,Basilan
@@ -169,7 +169,7 @@ psgc_10_digit,name,geographic_level,urban_rural,correspondence_code,income_class
 1900705024,Mangal,Bgy,U,150705024,,1900705,Basilan
 1900705025,Marang,Bgy,R,150705025,,1900705,Basilan
 1900705026,Mebak,Bgy,R,150705026,,1900705,Basilan
-1900705027,Sapa-Bulak,Bgy,R,150705027,,1900705,Basilan
+1900705027,Sapah Bulak,Bgy,R,150705027,,1900705,Basilan
 1900705028,St. Peter,Bgy,R,150705028,,1900705,Basilan
 1900705029,Tikong,Bgy,R,150705029,,1900705,Basilan
 1900705030,Tongsengal,Bgy,R,150705030,,1900705,Basilan
@@ -207,7 +207,7 @@ psgc_10_digit,name,geographic_level,urban_rural,correspondence_code,income_class
 1900708009,Calugusan,Bgy,R,150708009,,1900708,Basilan
 1900709001,Apil-Apil,Bgy,R,150709001,,1900709,Basilan
 1900709002,Bucalao,Bgy,R,150709002,,1900709,Basilan
-1900709003,Camban,Bgy,R,150709003,,1900709,Basilan
+1900709003,Cambug,Bgy,R,150709003,,1900709,Basilan
 1900709004,Danapah,Bgy,R,150709004,,1900709,Basilan
 1900709005,Guinanta,Bgy,R,150709005,,1900709,Basilan
 1900709006,Kailih,Bgy,R,150709006,,1900709,Basilan
@@ -223,7 +223,7 @@ psgc_10_digit,name,geographic_level,urban_rural,correspondence_code,income_class
 1900709016,Kuhon,Bgy,R,150709016,,1900709,Basilan
 1900710001,Basakan,Bgy,R,150710001,,1900710,Basilan
 1900710002,Buton,Bgy,R,150710002,,1900710,Basilan
-1900710003,Candiis,Bgy,R,150710003,,1900710,Basilan
+1900710003,Candiis,Bgy,R,15071000
 1900710004,Langil,Bgy,R,150710004,,1900710,Basilan
 1900710005,Sibut,Bgy,R,150710005,,1900710,Basilan
 1900710006,Sulutan-Matangal,Bgy,R,150710006,,1900710,Basilan
@@ -232,7 +232,7 @@ psgc_10_digit,name,geographic_level,urban_rural,correspondence_code,income_class
 1900710009,Malamawi,Bgy,R,150710009,,1900710,Basilan
 1900710010,Guiong,Bgy,R,150710010,,1900710,Basilan
 1900710011,Balatasan,Bgy,R,150710011,,1900710,Basilan
-1900711001,Baluk-Baluk,Bgy,R,150711001,,1900711,Basilan
+1900711001,Baluk-baluk,Bgy,R,150711001,,1900711,Basilan
 1900711002,Dasalan,Bgy,R,150711002,,1900711,Basilan
 1900711003,Luukbungsod,Bgy,R,150711003,,1900711,Basilan
 1900711004,Palahangan,Bgy,R,150711004,,1900711,Basilan
@@ -241,7 +241,7 @@ psgc_10_digit,name,geographic_level,urban_rural,correspondence_code,income_class
 1900711007,Sibago,Bgy,R,150711007,,1900711,Basilan
 1900711008,Tausan,Bgy,R,150711008,,1900711,Basilan
 1900711009,Bubuan,Bgy,R,150711009,,1900711,Basilan
-1900711010,Lahat-Lahat,Bgy,R,150711010,,1900711,Basilan
+1900711010,Ulitan,Bgy,R,150711010,,1900711,Basilan
 1900712001,Babag,Bgy,R,150712001,,1900712,Basilan
 1900712002,Balanting,Bgy,R,150712002,,1900712,Basilan
 1900712003,Boloh-Boloh,Bgy,R,150712003,,1900712,Basilan
@@ -249,7 +249,7 @@ psgc_10_digit,name,geographic_level,urban_rural,correspondence_code,income_class
 1900712005,Kaumpurnah,Bgy,R,150712005,,1900712,Basilan
 1900712006,Lanha-an,Bgy,R,150712006,,1900712,Basilan
 1900712007,Pisak-Pisak,Bgy,R,150712007,,1900712,Basilan
-1900712008,Saluping,Bgy,R,150712008,,1900712,Basilan
+1900712008,Saluping,Bgy,R,150712012,,1900712,Basilan
 1900712009,Suligan,Bgy,R,150712009,,1900712,Basilan
 1900712010,Tong-Umal,Bgy,R,150712010,,1900712,Basilan
 1900712011,Tubigan,Bgy,R,150712011,,1900712,Basilan
